@@ -1,0 +1,13 @@
+how to install new libraries
+easy_install library_name
+
+eg. easy_install selenium
+
+Tab
+"hola\tX"
+hola	X
+
+Enter
+"hola\X"
+hola
+X
